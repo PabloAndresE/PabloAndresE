@@ -1,5 +1,5 @@
 # Hi 👋, I'm Pablo Encalada.
-#### I'm a Software Engineer Student based in Ecuador 🇪🇨.
+#### I'm a Software Engineer based in Ecuador 🇪🇨.
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,mysql,html,css)](https://skillicons.dev)
 <!--
