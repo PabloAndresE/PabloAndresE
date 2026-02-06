@@ -25,6 +25,9 @@ I build end-to-end web solutions, paying special attention to performance, scala
 ### Databases & Systems
 [![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
+### Version Control & Tooling
+[![Tooling](https://skillicons.dev/icons?i=git,github,bash)](https://skillicons.dev)
+
 ### AI & Machine Learning
 - Python for AI & data processing  
 - Machine Learning fundamentals (supervised & unsupervised)  
@@ -42,6 +45,8 @@ I build end-to-end web solutions, paying special attention to performance, scala
 - Containerization and deployment with Docker  
 - Cloud infrastructure and services on Google Cloud Platform  
 - Database modeling and query optimization  
+- Version control using Git and collaborative workflows  
+- Command-line driven development and automation  
 - Integration of AI-powered features into backend systems  
 - Building robust, scalable, and maintainable software solutions  
 
