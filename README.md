@@ -25,15 +25,16 @@ I build end-to-end web solutions, paying special attention to performance, scala
 ### Databases & Systems
 [![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-### Version Control & Tooling
+### Version Control, CI/CD & Tooling
 [![Tooling](https://skillicons.dev/icons?i=git,github,bash)](https://skillicons.dev)
 
 ### AI & Machine Learning
+[![AI](https://skillicons.dev/icons?i=python,numpy,pandas,sklearn)](https://skillicons.dev)
+
 - Python for AI & data processing  
 - Machine Learning fundamentals (supervised & unsupervised)  
 - Data cleaning, preprocessing and exploratory analysis  
 - Model evaluation and validation  
-- Libraries: **NumPy**, **Pandas**, **scikit-learn**  
 - Integration of ML models into backend services and APIs  
 
 ---
