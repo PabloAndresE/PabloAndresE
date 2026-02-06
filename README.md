@@ -16,8 +16,8 @@ I build end-to-end web solutions, paying special attention to performance, scala
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,vite,html,css)](https://skillicons.dev)
 
-### Cloud & DevOps
-[![DevOps](https://skillicons.dev/icons?i=docker,gcp)](https://skillicons.dev)
+### Cloud, DevOps & Platforms
+[![Cloud](https://skillicons.dev/icons?i=docker,gcp,firebase)](https://skillicons.dev)
 
 ### Databases & Systems
 [![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
