@@ -1,44 +1,47 @@
 # Hi 👋, I'm Pablo Encalada
 
-### Fullstack Software Engineer  
+### Fullstack Software Engineer | Backend & Systems Development  
 📍 Ecuador 🇪🇨
 
-I'm a fullstack software engineer with experience building complete web solutions, from backend logic and data modeling to frontend interfaces.  
-I focus on writing clean, scalable code and designing systems that are easy to maintain and evolve.
+I'm a fullstack software engineer with a strong focus on backend development, system architecture, and cloud-ready applications.  
+I build end-to-end web solutions, paying special attention to performance, scalability, and clean integration between frontend, backend, and infrastructure.
 
 ---
 
 ## 🚀 Tech Stack
 
-### Backend
-[![Backend](https://skillicons.dev/icons?i=py,java,mysql)](https://skillicons.dev)
+### Backend & APIs
+[![Backend](https://skillicons.dev/icons?i=java,spring,python)](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,vite,html,css)](https://skillicons.dev)
 
-### Systems & Languages
-[![Systems](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+### Cloud & DevOps
+[![DevOps](https://skillicons.dev/icons?i=docker,gcp)](https://skillicons.dev)
+
+### Databases & Systems
+[![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ---
 
-## 🧩 What I Work On
-- End-to-end web application development  
-- Backend APIs and business logic  
-- Frontend implementation and UI integration  
-- Database design and optimization  
-- System-level problem solving and performance  
-
+## 🧠 What I Do
+- Backend development and system logic design  
+- REST API design and business logic implementation  
+- Frontend integration using React and Vite  
+- Containerization and deployment with Docker  
+- Cloud infrastructure and services on Google Cloud Platform  
+- Database modeling and query optimization  
+- Building robust, maintainable software solutions  
 ---
 
 ## 📈 Currently
-- Improving fullstack architecture patterns  
-- Strengthening frontend–backend integration  
-- Learning scalable and maintainable system design  
+- Designing scalable backend architectures  
+- Improving cloud-native deployment strategies  
+- Strengthening frontend–backend communication patterns  
 
 ---
 
 ## 📫 Contact
-Open to collaboration and new opportunities:
-- GitHub: **@PabloAndresE**
+- 📧 **dev@pabloencalada.com**
 
 ---
