@@ -16,6 +16,9 @@ I build end-to-end web solutions, paying special attention to performance, scala
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,vite,html,css)](https://skillicons.dev)
 
+### UX / UI
+[![UX/UI](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
 ### Cloud, DevOps & Platforms
 [![Cloud](https://skillicons.dev/icons?i=docker,gcp,firebase)](https://skillicons.dev)
 
@@ -32,6 +35,7 @@ I build end-to-end web solutions, paying special attention to performance, scala
 - Cloud infrastructure and services on Google Cloud Platform  
 - Database modeling and query optimization  
 - Building robust, maintainable software solutions  
+
 ---
 
 ## 📈 Currently
